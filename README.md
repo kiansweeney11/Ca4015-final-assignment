@@ -14,7 +14,7 @@ fix this but to no avail.
 - intro.ipynb = simple outline of the assignment.
 - recommender.ipynb = contains all work regarding data cleaning, visualization,
 recommender systems and clustering work.
-- conclusion.ipynb = simple concluding comments on the assignment and scope for
+- conclus.ipynb = simple concluding comments on the assignment and scope for
 future work.
 
 Note: recommender-past.ipynb is another system I was going to try but time constraints
